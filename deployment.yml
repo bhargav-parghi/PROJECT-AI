@@ -16,4 +16,4 @@ spec:
       - name: project-ai-container 
         image: nginx:latest
         ports:
-        -containerport: 80
+        -containerport: 8080

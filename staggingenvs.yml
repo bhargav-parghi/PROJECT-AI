@@ -2,3 +2,9 @@ apiVersion: v1
 kind: Namespace
 metadata:
   name:  name
+  env:
+    - name:  ENV_VAR
+      valueFrom:
+        secretKeyRef:
+          name:  name
+          key:  key

@@ -1,5 +1,4 @@
-namespaces:
--name: stagging 
-lables:
-env: stagging 
-team: backend 
+apiVersion: v1
+kind: Namespace
+metadata:
+  name:  name

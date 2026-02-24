@@ -21,5 +21,5 @@ spec:
           - name:  ENV_VARP
             valueFrom:
               secretKeyRef:
-                name:  bhargavparghi 
+                name:  devang parghi
               

@@ -17,4 +17,4 @@ spec:
         image: nginx:latest
         ports:
         -containerport: 8080
-        environement:
+        environement: 

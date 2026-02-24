@@ -1,0 +1,5 @@
+namespaces:
+-name: stagging 
+lables:
+env: stagging 
+team: backend 

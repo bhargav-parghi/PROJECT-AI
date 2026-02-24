@@ -18,8 +18,8 @@ spec:
         ports:
         -containerport: 8080
         env:
-          - name:  ENV_VAR
+          - name:  ENV_VARP
             valueFrom:
               secretKeyRef:
-                name:  devang
+                name:  bhargavparghi 
               
